@@ -7,4 +7,4 @@ Module 3
 [Solution](https://sam-nk.github.io/mod3_solution)
 
 Module 4
-[Solution](https://sam-nk.github.io/mod4_solution)
+[Solution](https://sam-nk.github.io/mod4_solution/)
