@@ -8,3 +8,6 @@ Module 3
 
 Module 4
 [Solution](https://sam-nk.github.io/mod4_solution/)
+
+Module 5
+[Solution](https://sam-nk.github.io/mod5_solution/)
